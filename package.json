@@ -1,0 +1,7 @@
+{
+  "name": "sunzi-skill",
+  "version": "1.0.0",
+  "description": "孙子Skill——从《孙子兵法》中提炼一条总原则和九大战略方法论，系统性提升 AI 的战略思维能力。",
+  "keywords": ["ai-agents", "skills", "methodology", "strategy", "sun-tzu", "art-of-war"],
+  "license": "MIT"
+}
